@@ -16,12 +16,13 @@ img {
   width: 50%;
 }
 
-nav a {
+/*nav a {
   padding-left: 10px;
   padding-right: 10px;
   background: gold;
   text-align: center;
 }
+*/
 
 nav a {
   padding: 0 10px;
